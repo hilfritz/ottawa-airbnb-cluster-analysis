@@ -1,0 +1,25 @@
+Price Statistics by Cluster:
+               mean  median    min    max
+cluster                                  
+0         82.013643    75.0   25.0  225.0
+1         86.746334    91.0   18.0  171.0
+2        188.673190   183.0  129.0  271.0
+
+Room Type Distribution by Cluster:
+room_type  Entire home/apt  Hotel room  Private room  Shared room
+cluster                                                          
+0                      266           0           466            1
+1                      765           0           598            1
+2                      479           2            30            0
+
+Geographical Distribution by Cluster (mean lat/long):
+          latitude  longitude
+cluster                      
+0        45.290913 -75.804777
+1        45.411739 -75.646685
+2        45.378307 -75.689922
+
+Mann-Whitney U Test Results:
+Cluster 0 vs. Cluster 1: p-value = 0.0000
+Cluster 1 vs. Cluster 2: p-value = 0.0000
+Cluster 0 vs. Cluster 2: p-value = 0.0000

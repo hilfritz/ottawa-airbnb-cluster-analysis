@@ -37,10 +37,10 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 
 ## Visualization: Plots and heatmaps showing geographic distribution of clusters.
 ### Geographical Heatmap of the Airbnb listings in Ottawa
-  [View interactive map version](FIGURES/FIGURES/ottawa_airbnb_cluster_heatmap.html)
+  [View interactive map version](FIGURES/ottawa_airbnb_cluster_heatmap.html)
   ![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)
 ### Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)
-  [View interactive map version](FIGURES/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+  [View interactive map version](FIGURES/ottawa_clusters_map_with_centroids_legend.html)
   ![Geographical Distribution of Airbnb listings with clusters in Ottawa](SCREENSHOTS/ottawa_clustered_listings.jpg)
 
 

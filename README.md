@@ -40,7 +40,7 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
   [View interactive map version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
   ![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)
 ### Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)
-  [View interactive map version]([FIGURES/ottawa_clusters_map_with_centroids_legend.html](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html))
+  [View interactive map version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
   ![Geographical Distribution of Airbnb listings with clusters in Ottawa](SCREENSHOTS/ottawa_clustered_listings.jpg)
 
 

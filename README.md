@@ -35,13 +35,14 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
     | 1       | 🟡 Yellow | Mid Priced accommodations     | $18 – $171  | $86.0      | Wide range → Mix of budget-friendly & moderately priced stays, some very affordable options |
     | 0       | 🟢 Green  | Cheap / Budget accommodations | $25 – $225  | $83.34     | Very wide range → Mostly budget-friendly stays, but includes some higher-priced listings |
 
-## Visualization**: Plots and heatmaps showing geographic distribution of clusters.
+## Visualization: Plots and heatmaps showing geographic distribution of clusters.
 ### Geographical Heatmap of the Airbnb listings in Ottawa
+  [View interactive map version](FIGURES/FIGURES/ottawa_airbnb_cluster_heatmap.html)
   ![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)
-**Sample Visualizations:**
-![Elbow Method](FIGURES/elbow_method.png)
-![3D Clusters](FIGURES/clusters_3d.png)
-![Cluster Heatmap](FIGURES/heatmap.png)
+### Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)
+  [View interactive map version](FIGURES/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+  ![Geographical Distribution of Airbnb listings with clusters in Ottawa](SCREENSHOTS/ottawa_clustered_listings.jpg)
+
 
 ---
 

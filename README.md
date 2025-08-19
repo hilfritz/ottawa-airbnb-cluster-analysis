@@ -8,7 +8,8 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 ---
 
 ## Data Collection
-- Dataset: `DATA AIRBNB.csv` (Airbnb listings in Ottawa).
+- Dataset: `DATA AIRBNB.csv` (Airbnb listings in Ottawa in 2023) .
+  - Dataset taken from : https://insideairbnb.com/get-the-data/
 - Key variables include **price**, **latitude**, **longitude**, and other listing details.
 - Data cleaning was performed to handle missing values, remove duplicates, and standardize formats.
 
@@ -28,13 +29,16 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 ## Clustering
 - **Methodology**: Applied K-Means clustering using **price, latitude, and longitude** as features.
 - **Number of clusters**: Determined optimal clusters using the **elbow method** and selected **3 clusters**.
+  - ![Elbow Method](FIGURES/elbow_method.png)
 - **Clusters identified**:
-  - **Cluster 0**: Low-priced accommodations (budget-friendly, wide price range $25–225, avg ~$83).
-  - **Cluster 1**: Mid-priced accommodations (balanced pricing, $18–171, avg ~$86).
-  - **Cluster 2**: High-priced accommodations (premium/luxury stays, $127–271, avg ~$188).
+    | Cluster | Color  | Description                   | Price Range | Avg. Price | Interpretation |
+    |---------|--------|-------------------------------|-------------|------------|----------------|
+    | 2       | 🔴 Red   | High Price accommodations     | $127 – $271 | $187.9     | Narrow range → Premium or luxury stays, entire homes/apartments in prime locations |
+    | 1       | 🟡 Yellow | Mid Priced accommodations     | $18 – $171  | $86.0      | Wide range → Mix of budget-friendly & moderately priced stays, some very affordable options |
+    | 0       | 🟢 Green  | Cheap / Budget accommodations | $25 – $225  | $83.34     | Very wide range → Mostly budget-friendly stays, but includes some higher-priced listings |
 
-- **Visualization**: 3D plots and heatmaps showing geographic distribution of clusters.
-
+## Visualization**: Plots and heatmaps showing geographic distribution of clusters.
+### 
 **Sample Visualizations:**
 ![Elbow Method](FIGURES/elbow_method.png)
 ![3D Clusters](FIGURES/clusters_3d.png)

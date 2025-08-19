@@ -21,8 +21,6 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 - **Outlier detection**: Identified unusually high/low listings and treated them accordingly.
 - **Descriptive statistics**: Mean, median, and variance of prices across the dataset.
 
-**Sample Visualization:**
-![Price Distribution](FIGURES/price_distribution.png)
 
 ---
 
@@ -38,7 +36,8 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
     | 0       | 🟢 Green  | Cheap / Budget accommodations | $25 – $225  | $83.34     | Very wide range → Mostly budget-friendly stays, but includes some higher-priced listings |
 
 ## Visualization**: Plots and heatmaps showing geographic distribution of clusters.
-### 
+### Geographical Heatmap of the Airbnb listings in Ottawa
+  ![Geographical Heatmap of the Airbnb listings in Ottawa](SREENSHOTS/ottawa_listings_heatmap.png)
 **Sample Visualizations:**
 ![Elbow Method](FIGURES/elbow_method.png)
 ![3D Clusters](FIGURES/clusters_3d.png)

@@ -68,5 +68,6 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 ---
 
 ## Author
-Prepared as part of a Data Analytics project to demonstrate clustering and visualization skills for recruiters and data science professionals.
+Hilfritz Camallere
+Prepared as part of a Data Analytics project to demonstrate clustering and visualization skills for data analysis.
 

@@ -132,6 +132,9 @@ Mapping latitude/longitude helps interpret whether price segments cluster in spe
 - Methodology references: standard clustering/K-Means literature and scikit-learn documentation.
 
 
+<br/></br></br>
+📓 *Note:* The **Jupyter Notebook (`notebook.ipynb`)** contains the full result outputs, including figures, and other supporting analysis.
+
 ## Author
 **Hilfritz Camallere**  
 This project showcases EDA and K-Means clustering to group listings with similar characteristics and interpret spatial pricing patterns in Ottawa.

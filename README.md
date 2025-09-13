@@ -1,4 +1,4 @@
-# Ottawa Airbnb Price Clustering Analysis
+# Cluster Analysis of Ottawa Airbnbs
 
 ## Project Overview
 This project analyzes Airbnb listings in Ottawa to identify distinct price clusters using data science techniques. 
@@ -37,13 +37,14 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 
 ## Visualization: Plots and heatmaps showing geographic distribution of clusters.
 ### Geographical Heatmap of the Airbnb listings in Ottawa
-  [Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
-  [![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
-
+[Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
+[![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
 
 ### Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)
-  [Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
-  [![Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)](SCREENSHOTS/ottawa_clustered_listings.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+[Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+[![Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)](SCREENSHOTS/ottawa_clustered_listings.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+
+
 ---
 
 ## Findings & Insights

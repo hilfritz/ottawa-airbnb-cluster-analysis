@@ -37,14 +37,13 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 
 ## Visualization: Plots and heatmaps showing geographic distribution of clusters.
 ### Geographical Heatmap of the Airbnb listings in Ottawa
-[Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
-[![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
+  [Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
+  [![Geographical Heatmap of the Airbnb listings in Ottawa](SCREENSHOTS/ottawa_listings_heatmap.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_airbnb_cluster_heatmap.html)
+
 
 ### Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)
-  [View interactive map version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
-  ![Geographical Distribution of Airbnb listings with clusters in Ottawa](SCREENSHOTS/ottawa_clustered_listings.jpg)
-
-
+  [Click map to view interactive version](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
+  [![Geographical Distribution of Airbnb listings with clusters in Ottawa (with centroids)](SCREENSHOTS/ottawa_clustered_listings.jpg)](https://hilfritz.github.io/AirBNB_Otawa_DataAnalysis/FIGURES/ottawa_clusters_map_with_centroids_legend.html)
 ---
 
 ## Findings & Insights

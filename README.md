@@ -70,5 +70,4 @@ It aims to provide a clear picture of how Airbnb accommodations are priced acros
 
 ## Author
 Hilfritz Camallere
-Prepared as part of a Data Analytics project to demonstrate clustering and visualization skills for data analysis.
-
+A simple project to showcase Exploratory Data Analysis and to demonstrate use of K-Means clustering identify datapoints sharing similar features and group them into clusters.
